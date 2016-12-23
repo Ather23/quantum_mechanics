@@ -1,2 +1,2 @@
-# quantum_mechanics
-Some interesting qm simulations
+# Quantum Mechanics
+Repo for interesting qm simulations
